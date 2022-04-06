@@ -1,0 +1,24 @@
+{
+  "name": "marquee-line",
+  "version": "1.0.0",
+  "description": "Marquee and Image crawl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saroj-mhrn/marquee-line.git"
+  },
+  "keywords": [
+    "Marquee",
+    "Image",
+    "Crawl"
+  ],
+  "author": "Saroj Maharjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saroj-mhrn/marquee-line/issues"
+  },
+  "homepage": "https://github.com/saroj-mhrn/marquee-line#readme"
+}
