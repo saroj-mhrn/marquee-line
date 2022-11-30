@@ -1,0 +1,12 @@
+.marquee {
+  width: 600px;
+}
+
+.marquee .mask {
+  overflow: hidden;
+}
+
+.marquee .line {
+  width: 99999px;
+  float: left;
+}
